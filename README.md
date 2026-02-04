@@ -7,6 +7,7 @@
 
 ![Screenshot](https://cdn.discordapp.com/attachments/1430909715646513162/1468663563060117567/Screenshot_2026-02-04_184105.png?ex=6984d707&is=69838587&hm=95eba41d207acd371db3aa39306df6f786c3985709db3d65ec8efc66ae90f3c9&)
 
+
 ## ✨ Features
 
 - 🚀 Fast and efficient view generation
@@ -24,10 +25,12 @@
 
 The tool is available exclusively in our Discord community. Join now to:
 
-- ✅ Download the latest version
+- ✅ Download the latest version in python
 - ✅ Get instant support
 - ✅ Receive updates and improvements
-- ✅ Connect with other users
+- ✅ Talk with other users
+
+**NEED A FREE VERSION? STAR THIS REPO :D**
 
 ## 🚀 How It Works
 
