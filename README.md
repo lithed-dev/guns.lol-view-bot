@@ -52,4 +52,4 @@ Need help? Have questions? Join our Discord server for fast support from our com
 
 ---
 
-**Made by 0nub (Sparked.) & Lithed (me)** | [Join our Discord](https://discord.gg/W7f2wE9HN9)
+**Made by 0nub (Sparked.)** | [Join our Discord](https://discord.gg/W7f2wE9HN9)
