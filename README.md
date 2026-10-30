@@ -45,7 +45,7 @@ Need help? Have questions? Join our Discord server for fast support from our com
 
 **Discord:** [discord.gg/W7f2wE9HN9](https://discord.gg/W7f2wE9HN9)
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.7 or higher
 - Windows, Mac, or Linux
